@@ -1,0 +1,1 @@
+SISTEMA SENCILLO DE PRESTAMO DE COMPUTADORES\n\n1. Requiere Python 3.\n2. Abre una terminal en esta carpeta.\n3. Ejecuta: python prestamos.py\n4. Usa el menu para registrar equipos, prestar y devolver computadores.\n\nNota: los datos se guardan en memoria y se pierden al cerrar el programa.\n
